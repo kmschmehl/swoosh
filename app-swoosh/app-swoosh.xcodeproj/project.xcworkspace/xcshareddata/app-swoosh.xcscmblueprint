@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3F832282C45742434FF61742E78ED0BC6BB28A2B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3F832282C45742434FF61742E78ED0BC6BB28A2B" : 9223372036854775807,
+    "F98BAD90A56A99C238E0B3C00B5BFC3D2A088C8D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6350AB7B-DEAF-425C-A084-94DC3CAF6D69",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3F832282C45742434FF61742E78ED0BC6BB28A2B" : "swoosh\/",
+    "F98BAD90A56A99C238E0B3C00B5BFC3D2A088C8D" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "app-swoosh",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "app-swoosh\/app-swoosh.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kmschmehl\/swoosh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F832282C45742434FF61742E78ED0BC6BB28A2B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kmschmehl\/FirstRepo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F98BAD90A56A99C238E0B3C00B5BFC3D2A088C8D"
+    }
+  ]
+}
